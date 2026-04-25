@@ -27,18 +27,20 @@ A console-based Java CRUD application designed to manage vehicles and their serv
 
 ## 📂 Project Structure
 
+```
 SMART_WORKSHOP_MANAGER/
 ├── src/
-│ ├── App.java
-│ ├── Vehicle.java
-│ ├── ServiceRecord.java
-│ └── FileHandler.java
+│   ├── App.java
+│   ├── Vehicle.java
+│   ├── ServiceRecord.java
+│   └── FileHandler.java
 │
 ├── data/
-│ └── vehicles.txt
+│   └── vehicles.txt
 │
 ├── README.md
 └── .gitignore
+```
 
 ---
 
