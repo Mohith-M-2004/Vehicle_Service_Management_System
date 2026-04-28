@@ -1,4 +1,4 @@
-# 🚗 Smart Workshop Manager
+# 🚗 Vehicle Service Management System
 
 A console-based Java CRUD application designed to manage vehicles and their service records efficiently.
 
