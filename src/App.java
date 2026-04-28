@@ -26,7 +26,7 @@ The application ensures that data is saved to file after any modifications.
 
         while (true) {
 
-            System.out.println("======== SMART WORKSHOP ======== \n1. Add Vehicle \n2. Display Vehicle \n3. Update Vehicle \n4. Delete Vehicle \n5. Search Vehicle \n6. Add Service Record \n7. View Service History \n8. Show Analytics \n9. Exit \n================================\n");
+            System.out.println("======== VEHICLE SERVICE MANAGEMENT SYSTEM ======== \n1. Add Vehicle \n2. Display Vehicle \n3. Update Vehicle \n4. Delete Vehicle \n5. Search Vehicle \n6. Add Service Record \n7. View Service History \n8. Show Analytics \n9. Exit \n================================\n");
             System.out.print("Enter your choice: ");
             int choice;
 
